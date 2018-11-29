@@ -21,7 +21,7 @@ Local Setup
    
    .. code-block:: bash 
    
-       git clone https://github.com/ray-project/tutorial
+       git clone https://github.com/eavidan/tutorial
        cd tutorial
        conda env create -f environment.yml
        conda activate ray-tutorial
