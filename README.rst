@@ -4,8 +4,6 @@ Ray Tutorial
 Try Ray on Binder (Experimental)
 --------------------------------
 
-.. image:: https://mybinder.org/badge_logo.svg :target: https://mybinder.org/v2/gh/eavidan/tutorial/master
-
 Try the Ray tutorials online on `Binder`_.
 
 .. _`Binder`: https://mybinder.org/v2/gh/eavidan/tutorial/master
